@@ -1,0 +1,19 @@
+ggplot(fa_abundance,aes(fa,abundance,color=GDM))+
+  geom_boxplot(size=0.4,outlier.colour="grey",outlier.size=1)+  
+  scale_color_manual(values =c('#8BABD3','#D7B0B0'))+
+  labs(x="Enzymes",y="Abundance")+
+  geom_jitter(aes(jitter_group+jitter_position, abundance, fill=GDM),
+              position=position_jitter(width=0.15,height=0),
+              alpha=0.5,
+              shape=21, size = 1,show.legend = F) +
+  scale_fill_manual(values =c('#8BABD3','#D7B0B0'))+
+  stat_compare_means(method = "wilcox.test",label = "p.format",show.legend = F)+
+  
+  theme_bw() +
+  theme(panel.background = element_blank(),
+        panel.grid = element_blank(),  
+        axis.text.x = element_text(face="bold",color = 'black'),
+        axis.title.x = element_blank(),
+        plot.title = element_text( hjust = 0.5 ),
+        legend.background = element_blank())+
+  guides(color=guide_legend(title="Group")) 
