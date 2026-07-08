@@ -1,0 +1,11 @@
+feature	count	group
+DG161180	50	lipids
+c181n7	50	lipids
+DHC241	49	lipids
+PI406	47	lipids
+hba1c_a	43	traditional_risk_factors
+PEP386	36	lipids
+Blautia_wexlerae	35	species
+Fusicatenibacter_saccharivorans	29	species
+Eubacterium_hallii	28	species
+MHC200	22	lipids
