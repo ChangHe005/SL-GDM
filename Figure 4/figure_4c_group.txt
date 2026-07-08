@@ -1,0 +1,423 @@
+feature	group
+Blautia obeum	species
+Fusicatenibacter saccharivorans	species
+Ruminococcus bicirculans	species
+Intestinibacter bartlettii	species
+Blautia wexlerae	species
+Ruthenibacterium lactatiformans	species
+Eubacterium hallii	species
+Ruminococcus bromii	species
+Dialister sp CAG 357	species
+Bifidobacterium adolescentis	species
+Bacteroides plebeius	species
+Paraprevotella xylaniphila	species
+Dorea longicatena	species
+Anaerostipes hadrus	species
+Eubacterium sp CAG 274	species
+Turicibacter sanguinis	species
+Eubacterium sp CAG 180	species
+Streptococcus anginosus group	species
+Bacteroides caccae	species
+Clostridium sp CAG 242	species
+Roseburia sp CAG 303	species
+Parabacteroides distasonis	species
+Megamonas funiformis	species
+Bifidobacterium longum	species
+Roseburia sp CAG 471	species
+Paraprevotella clara	species
+BIOTIN-BIOSYNTHESIS-PWY	pathway
+CATECHOL-ORTHO-CLEAVAGE-PWY	pathway
+FASYN-ELONG-PWY	pathway
+GLYCOGENSYNTH-PWY	pathway
+GOLPDLCAT-PWY	pathway
+HISDEG-PWY	pathway
+LACTOSECAT-PWY	pathway
+NAD-BIOSYNTHESIS-II	pathway
+P164-PWY	pathway
+P461-PWY	pathway
+PPGPPMET-PWY	pathway
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY	pathway
+PWY-1861	pathway
+PWY-5028	pathway
+PWY-5104	pathway
+PWY-5188	pathway
+PWY-5384	pathway
+PWY-5676	pathway
+PWY-5989	pathway
+PWY-6147	pathway
+PWY-622	pathway
+PWY-6282	pathway
+PWY-6353	pathway
+PWY-6470	pathway
+PWY-6471	pathway
+PWY-6519	pathway
+PWY-6608	pathway
+PWY-6863	pathway
+PWY-7003	pathway
+PWY-7013	pathway
+PWY-7196	pathway
+PWY-7664	pathway
+PWY0-1241	pathway
+PWY0-862	pathway
+RUMP-PWY	pathway
+SALVADEHYPOX-PWY	pathway
+TEICHOICACID-PWY	pathway
+BMP 16:0/16:0	lipid
+BMP 18:1/16:1	lipid
+CE 14:0	lipid
+CE 15:0	lipid
+CE 16:0	lipid
+CE 16:1	lipid
+CE 16:2	lipid
+CE 17:0	lipid
+CE 17:1	lipid
+CE 18:0	lipid
+CE 18:1	lipid
+CE 18:2	lipid
+CE 18:3	lipid
+CE 20:1	lipid
+CE 20:2	lipid
+CE 20:3	lipid
+CE 20:4	lipid
+CE 20:5	lipid
+CE 22:0	lipid
+CE 22:1	lipid
+CE 22:4	lipid
+CE 22:5	lipid
+CE 22:6	lipid
+CE 24:0	lipid
+CE 24:1	lipid
+CE 24:4	lipid
+CE 24:5	lipid
+Cer 12:0	lipid
+Cer 14:0	lipid
+Cer 16:0	lipid
+Cer 18:0	lipid
+Cer 20:0	lipid
+Cer 24:1	lipid
+COH	lipid
+DG 14:0/16:0	lipid
+DG 14:0/18:1	lipid
+DG 14:0/18:2	lipid
+DG 16:0/16:0	lipid
+DG 16:0/18:0	lipid
+DG 16:0/18:1	lipid
+DG 16:0/18:2	lipid
+DG 16:0/20:3	lipid
+DG 16:0/20:4	lipid
+DG 16:0/22:5	lipid
+DG 16:0/22:6	lipid
+DG 16:1/18:0	lipid
+DG 16:1/18:1	lipid
+DG 18:0/18:1	lipid
+DG 18:0/18:2	lipid
+DG 18:0/20:4	lipid
+DG 18:1/18:1	lipid
+DG 18:1/18:2	lipid
+DG 18:1/18:3	lipid
+DG 18:1/20:3	lipid
+DG 18:1/20:4	lipid
+DG 18:2/18:2	lipid
+DHC 16:0	lipid
+DHC 18:0	lipid
+DHC 20:0	lipid
+DHC 22:0	lipid
+DHC 24:0	lipid
+DHC 24:1	lipid
+LPC 14:0	lipid
+LPC 15:0 SN1	lipid
+LPC 15:0 SN2	lipid
+LPC 16:0	lipid
+LPC 16:1 SN1	lipid
+LPC 16:1 SN2	lipid
+LPC 17:0 SN1	lipid
+LPC 17:0 SN2	lipid
+LPC 17:1 SN1	lipid
+LPC 17:1 SN2	lipid
+LPC 18:0 SN1	lipid
+LPC 18:0 SN2	lipid
+LPC 18:1 SN1	lipid
+LPC 18:1 SN2	lipid
+LPC 18:2	lipid
+LPC 18:3	lipid
+LPC 20:0 SN1	lipid
+LPC 20:0 SN2	lipid
+LPC 20:1 SN1	lipid
+LPC 20:1 SN2	lipid
+LPC 20:2 SN1	lipid
+LPC 20:2 SN2	lipid
+LPC 20:3	lipid
+LPC 20:4	lipid
+LPC 20:5	lipid
+LPC 22:0 SN1	lipid
+LPC 22:0 SN2	lipid
+LPC 22:1	lipid
+LPC 22:6	lipid
+LPC 24:0	lipid
+LPC 26:0	lipid
+LPC(O-20:0)	lipid
+LPC(O-22:0)	lipid
+LPC(O-22:1)	lipid
+LPC(O-24:0)	lipid
+LPC(O-24:1)	lipid
+LPC(O-24:2)	lipid
+LPE 16:0	lipid
+LPE 18:0	lipid
+LPE 18:1	lipid
+LPE 18:2	lipid
+LPE 20:4	lipid
+LPE 22:6	lipid
+MHC 16:0	lipid
+MHC 18:0	lipid
+MHC 20:0	lipid
+MHC 22:0	lipid
+MHC 24:0	lipid
+MHC 24:1	lipid
+PC 29:0	lipid
+PC 30:0	lipid
+PC 31:0	lipid
+PC 31:1	lipid
+PC 32:0	lipid
+PC 33:0 a	lipid
+PC 33:0 b	lipid
+PC 33:1 a	lipid
+PC 33:1 b	lipid
+PC 33:2	lipid
+PC 33:3	lipid
+PC 34:0	lipid
+PC 34:1	lipid
+PC 34:2	lipid
+PC 34:3	lipid
+PC 34:4	lipid
+PC 34:5	lipid
+PC 35:0	lipid
+PC 35:1	lipid
+PC 35:2	lipid
+PC 35:3	lipid
+PC 35:4	lipid
+PC 35:6	lipid
+PC 36:2	lipid
+PC 36:3	lipid
+PC 36:4	lipid
+PC 36:5	lipid
+PC 36:6	lipid
+PC 37:4	lipid
+PC 37:5	lipid
+PC 37:6	lipid
+PC 38:0	lipid
+PC 38:2	lipid
+PC 38:3	lipid
+PC 38:4	lipid
+PC 38:5	lipid
+PC 38:6a	lipid
+PC 38:7	lipid
+PC 39:6	lipid
+PC 40:5	lipid
+PC 40:6	lipid
+PC 40:7	lipid
+PC(O-30:0)	lipid
+PC(O-32:0)	lipid
+PC(O-32:1)	lipid
+PC(O-32:2)	lipid
+PC(O-34:0)	lipid
+PC(O-34:1)	lipid
+PC(O-34:2)	lipid
+PC(O-34:3)	lipid
+PC(O-34:4)	lipid
+PC(O-35:4)	lipid
+PC(O-36:0)	lipid
+PC(O-36:1)	lipid
+PC(O-36:2)	lipid
+PC(O-36:3)	lipid
+PC(O-36:4)	lipid
+PC(O-36:5)	lipid
+PC(O-36:6)	lipid
+PC(O-38:4)	lipid
+PC(O-38:5)	lipid
+PC(O-38:6)	lipid
+PC(O-40:6)	lipid
+PC(O-40:7)	lipid
+PC(P-32:0)	lipid
+PC(P-32:1)	lipid
+PC(P-34:1)	lipid
+PC(P-34:2)	lipid
+PC(P-36:2)	lipid
+PC(P-36:3)	lipid
+PC(P-36:4)	lipid
+PC(P-36:5)	lipid
+PC(P-36:6)	lipid
+PC(P-38:4)	lipid
+PC(P-38:5)	lipid
+PC(P-40:5)	lipid
+PC(P-40:6)	lipid
+PE 32:1	lipid
+PE 33:1	lipid
+PE 33:2	lipid
+PE 34:1	lipid
+PE 34:2	lipid
+PE 34:3	lipid
+PE 35:1	lipid
+PE 35:2	lipid
+PE 35:3	lipid
+PE 35:4	lipid
+PE 36:0	lipid
+PE 36:1	lipid
+PE 36:2	lipid
+PE 36:3	lipid
+PE 36:4	lipid
+PE 36:5	lipid
+PE 37:4	lipid
+PE 37:5	lipid
+PE 38:3	lipid
+PE 38:4	lipid
+PE 38:5	lipid
+PE 38:6	lipid
+PE 39:6	lipid
+PE 40:5	lipid
+PE 40:6	lipid
+PE 40:7	lipid
+PE(O-34:1)	lipid
+PE(O-34:2)	lipid
+PE(O-34:3)	lipid
+PE(O-35:1)	lipid
+PE(O-36:1)	lipid
+PE(O-36:2)	lipid
+PE(O-36:3)	lipid
+PE(O-36:4)	lipid
+PE(O-36:5)	lipid
+PE(O-38:4)	lipid
+PE(O-38:5)	lipid
+PE(O-38:6)	lipid
+PE(O-38:7)	lipid
+PE(O-40:5)	lipid
+PE(O-40:6)	lipid
+PE(O-40:7)	lipid
+PE(P-34:1)	lipid
+PE(P-34:2)	lipid
+PE(P-36:1)	lipid
+PE(P-36:2)	lipid
+PE(P-36:4)	lipid
+PE(P-38:4)	lipid
+PE(P-38:5)	lipid
+PE(P-38:6)	lipid
+PE(P-38:7)	lipid
+PE(P-38:8)	lipid
+PE(P-40:5)	lipid
+PE(P-40:6)	lipid
+PG 34:1	lipid
+PG 36:1	lipid
+PG 36:2	lipid
+PI 32:0	lipid
+PI 32:1	lipid
+PI 34:0	lipid
+PI 34:1	lipid
+PI 36:0	lipid
+PI 36:1	lipid
+PI 36:2	lipid
+PI 36:3	lipid
+PI 36:4	lipid
+PI 38:2	lipid
+PI 38:3	lipid
+PI 38:4	lipid
+PI 38:5	lipid
+PI 38:6	lipid
+PI 40:4	lipid
+PI 40:5	lipid
+PI 40:6	lipid
+PS 36:1	lipid
+PS 38:4	lipid
+PS 40:6	lipid
+SM 31:1	lipid
+SM 32:1	lipid
+SM 32:2	lipid
+SM 33:1	lipid
+SM 34:1	lipid
+SM 34:2	lipid
+SM 34:3	lipid
+SM 35:1	lipid
+SM 35:2	lipid
+SM 36:1	lipid
+SM 36:2	lipid
+SM 36:3	lipid
+SM 37:2	lipid
+SM 38:1	lipid
+SM 38:2	lipid
+SM 39:1	lipid
+SM 41:1	lipid
+SM 41:2	lipid
+SM 42:1	lipid
+TG 14:0/16:0/18:1	lipid
+TG 14:0/16:0/18:2	lipid
+TG 14:0/16:1/18:1	lipid
+TG 14:0/16:1/18:2	lipid
+TG 14:0/17:0/18:1	lipid
+TG 14:0/18:0/18:1	lipid
+TG 14:0/18:2/18:2	lipid
+TG 14:1/16:0/18:1	lipid
+TG 14:1/16:1/18:0	lipid
+TG 14:1/18:0/18:2	lipid
+TG 14:1/18:1/18:1	lipid
+TG 15:0/16:0/18:1	lipid
+TG 15:0/18:1/18:1	lipid
+TG 16:0/16:0/16:0	lipid
+TG 16:0/16:0/18:0	lipid
+TG 16:0/16:0/18:1	lipid
+TG 16:0/16:0/18:2	lipid
+TG 16:0/16:1/17:0	lipid
+TG 16:0/16:1/18:1	lipid
+TG 16:0/17:0/18:0	lipid
+TG 16:0/17:0/18:1	lipid
+TG 16:0/17:0/18:2	lipid
+TG 16:0/18:0/18:1	lipid
+TG 16:0/18:1/18:1	lipid
+TG 16:0/18:1/18:2	lipid
+TG 16:0/18:2/18:2	lipid
+TG 16:1/16:1/16:1	lipid
+TG 16:1/16:1/18:0	lipid
+TG 16:1/16:1/18:1	lipid
+TG 16:1/17:0/18:1	lipid
+TG 16:1/18:1/18:1	lipid
+TG 16:1/18:1/18:2	lipid
+TG 17:0/17:0/17:0	lipid
+TG 17:0/18:1/18:1	lipid
+TG 18:0/18:0/18:1	lipid
+TG 18:0/18:1/18:1	lipid
+TG 18:0/18:2/18:2	lipid
+TG 18:1/18:1/18:1	lipid
+TG 18:1/18:1/18:2	lipid
+TG 18:1/18:1/20:4	lipid
+TG 18:1/18:1/22:6	lipid
+TG 18:1/18:2/18:2	lipid
+TG 18:2/18:2/18:2	lipid
+TG 18:2/18:2/20:4	lipid
+Decanoic acid (10:0)	lipid
+Lauric Acid (12:0)	lipid
+Myristic acid (14:0)	lipid
+Pentadecanoic acid (15:0)	lipid
+Palmitic acid (16:0)	lipid
+Palmitoleic acid (16:1n-7)	lipid
+Heptadecanoic acid (17:0)	lipid
+Stearic acid (18:0)	lipid
+Vaccenic acid (18:1n-7)	lipid
+Oleic acid (18:1n-9)	lipid
+Linoleic acid (18:2n-6)	lipid
+Alpha-linolenic acid (18:3n-3)	lipid
+Gamma-linolenic acid (18:3n-6)	lipid
+Nonadecanoic acid (19:0)	lipid
+Arachidic acid (20:0)	lipid
+Gondoic acid (20:1n-9)	lipid
+Eicosadienoic acid (20:2n-6)	lipid
+Dihomo-gamma-linolenic acid (20:3n-6)	lipid
+Arachidonic acid (20:4n-6)	lipid
+Eicosapentaenoic acid (20:5n-3)	lipid
+Behenic acid (22:0)	lipid
+Erucic acid (22:1n-9)	lipid
+Docosatetraenoic acid (22:4n-6)	lipid
+Docosapentaenoic acid (22:5n-3)	lipid
+Docosahexaenoic acis (22:6n-3)	lipid
+Lignoceric acid (24:0)	lipid
+Nervonic acid (24:1n-9)	lipid
+Trans-palmitoleic acid (Trans-16:1)	lipid
+ Trans-vaccenic [Trans-18:1(n-7)]	lipid
+Elaidic acid [Trans-18:1(n-9)]	lipid
+Linoleic acid [Trans-18:2n-6]	lipid

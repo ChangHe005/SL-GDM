@@ -1,0 +1,24 @@
+from	count
+Dialister sp CAG 357	34
+Roseburia sp CAG 471	31
+Blautia obeum	28
+Intestinibacter bartlettii	27
+Bacteroides caccae	25
+Ruminococcus bromii	25
+Ruthenibacterium lactatiformans	25
+Roseburia sp CAG 303	24
+Dorea longicatena	18
+Blautia wexlerae	17
+Eubacterium sp CAG 180	17
+Eubacterium sp CAG 274	16
+Bifidobacterium adolescentis	15
+Clostridium sp CAG 242	15
+Turicibacter sanguinis	15
+Streptococcus anginosus group	13
+Ruminococcus bicirculans	10
+Eubacterium hallii	9
+Parabacteroides distasonis	9
+Fusicatenibacter saccharivorans	6
+Megamonas funiformis	6
+Bacteroides plebeius	4
+Paraprevotella xylaniphila	4

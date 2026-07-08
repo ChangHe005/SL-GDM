@@ -1,0 +1,9 @@
+parameter	value
+break_1	-0.17255116415743
+break_2	0
+break_3	0.165595239321167
+color_1	#2297E6FF
+color_2	#FFFFFFFF
+color_3	#DF536BFF
+transparency	0
+space	LAB

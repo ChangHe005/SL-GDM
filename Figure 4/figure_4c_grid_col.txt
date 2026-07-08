@@ -1,0 +1,423 @@
+feature	grid_col
+Blautia obeum	2
+Fusicatenibacter saccharivorans	2
+Ruminococcus bicirculans	2
+Intestinibacter bartlettii	2
+Blautia wexlerae	2
+Ruthenibacterium lactatiformans	2
+Eubacterium hallii	2
+Ruminococcus bromii	2
+Dialister sp CAG 357	2
+Bifidobacterium adolescentis	2
+Bacteroides plebeius	2
+Paraprevotella xylaniphila	2
+Dorea longicatena	2
+Anaerostipes hadrus	2
+Eubacterium sp CAG 274	2
+Turicibacter sanguinis	2
+Eubacterium sp CAG 180	2
+Streptococcus anginosus group	2
+Bacteroides caccae	2
+Clostridium sp CAG 242	2
+Roseburia sp CAG 303	2
+Parabacteroides distasonis	2
+Megamonas funiformis	2
+Bifidobacterium longum	2
+Roseburia sp CAG 471	2
+Paraprevotella clara	2
+BIOTIN-BIOSYNTHESIS-PWY	3
+CATECHOL-ORTHO-CLEAVAGE-PWY	3
+FASYN-ELONG-PWY	3
+GLYCOGENSYNTH-PWY	3
+GOLPDLCAT-PWY	3
+HISDEG-PWY	3
+LACTOSECAT-PWY	3
+NAD-BIOSYNTHESIS-II	3
+P164-PWY	3
+P461-PWY	3
+PPGPPMET-PWY	3
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY	3
+PWY-1861	3
+PWY-5028	3
+PWY-5104	3
+PWY-5188	3
+PWY-5384	3
+PWY-5676	3
+PWY-5989	3
+PWY-6147	3
+PWY-622	3
+PWY-6282	3
+PWY-6353	3
+PWY-6470	3
+PWY-6471	3
+PWY-6519	3
+PWY-6608	3
+PWY-6863	3
+PWY-7003	3
+PWY-7013	3
+PWY-7196	3
+PWY-7664	3
+PWY0-1241	3
+PWY0-862	3
+RUMP-PWY	3
+SALVADEHYPOX-PWY	3
+TEICHOICACID-PWY	3
+BMP 16:0/16:0	4
+BMP 18:1/16:1	4
+CE 14:0	4
+CE 15:0	4
+CE 16:0	4
+CE 16:1	4
+CE 16:2	4
+CE 17:0	4
+CE 17:1	4
+CE 18:0	4
+CE 18:1	4
+CE 18:2	4
+CE 18:3	4
+CE 20:1	4
+CE 20:2	4
+CE 20:3	4
+CE 20:4	4
+CE 20:5	4
+CE 22:0	4
+CE 22:1	4
+CE 22:4	4
+CE 22:5	4
+CE 22:6	4
+CE 24:0	4
+CE 24:1	4
+CE 24:4	4
+CE 24:5	4
+Cer 12:0	4
+Cer 14:0	4
+Cer 16:0	4
+Cer 18:0	4
+Cer 20:0	4
+Cer 24:1	4
+COH	4
+DG 14:0/16:0	4
+DG 14:0/18:1	4
+DG 14:0/18:2	4
+DG 16:0/16:0	4
+DG 16:0/18:0	4
+DG 16:0/18:1	4
+DG 16:0/18:2	4
+DG 16:0/20:3	4
+DG 16:0/20:4	4
+DG 16:0/22:5	4
+DG 16:0/22:6	4
+DG 16:1/18:0	4
+DG 16:1/18:1	4
+DG 18:0/18:1	4
+DG 18:0/18:2	4
+DG 18:0/20:4	4
+DG 18:1/18:1	4
+DG 18:1/18:2	4
+DG 18:1/18:3	4
+DG 18:1/20:3	4
+DG 18:1/20:4	4
+DG 18:2/18:2	4
+DHC 16:0	4
+DHC 18:0	4
+DHC 20:0	4
+DHC 22:0	4
+DHC 24:0	4
+DHC 24:1	4
+LPC 14:0	4
+LPC 15:0 SN1	4
+LPC 15:0 SN2	4
+LPC 16:0	4
+LPC 16:1 SN1	4
+LPC 16:1 SN2	4
+LPC 17:0 SN1	4
+LPC 17:0 SN2	4
+LPC 17:1 SN1	4
+LPC 17:1 SN2	4
+LPC 18:0 SN1	4
+LPC 18:0 SN2	4
+LPC 18:1 SN1	4
+LPC 18:1 SN2	4
+LPC 18:2	4
+LPC 18:3	4
+LPC 20:0 SN1	4
+LPC 20:0 SN2	4
+LPC 20:1 SN1	4
+LPC 20:1 SN2	4
+LPC 20:2 SN1	4
+LPC 20:2 SN2	4
+LPC 20:3	4
+LPC 20:4	4
+LPC 20:5	4
+LPC 22:0 SN1	4
+LPC 22:0 SN2	4
+LPC 22:1	4
+LPC 22:6	4
+LPC 24:0	4
+LPC 26:0	4
+LPC(O-20:0)	4
+LPC(O-22:0)	4
+LPC(O-22:1)	4
+LPC(O-24:0)	4
+LPC(O-24:1)	4
+LPC(O-24:2)	4
+LPE 16:0	4
+LPE 18:0	4
+LPE 18:1	4
+LPE 18:2	4
+LPE 20:4	4
+LPE 22:6	4
+MHC 16:0	4
+MHC 18:0	4
+MHC 20:0	4
+MHC 22:0	4
+MHC 24:0	4
+MHC 24:1	4
+PC 29:0	4
+PC 30:0	4
+PC 31:0	4
+PC 31:1	4
+PC 32:0	4
+PC 33:0 a	4
+PC 33:0 b	4
+PC 33:1 a	4
+PC 33:1 b	4
+PC 33:2	4
+PC 33:3	4
+PC 34:0	4
+PC 34:1	4
+PC 34:2	4
+PC 34:3	4
+PC 34:4	4
+PC 34:5	4
+PC 35:0	4
+PC 35:1	4
+PC 35:2	4
+PC 35:3	4
+PC 35:4	4
+PC 35:6	4
+PC 36:2	4
+PC 36:3	4
+PC 36:4	4
+PC 36:5	4
+PC 36:6	4
+PC 37:4	4
+PC 37:5	4
+PC 37:6	4
+PC 38:0	4
+PC 38:2	4
+PC 38:3	4
+PC 38:4	4
+PC 38:5	4
+PC 38:6a	4
+PC 38:7	4
+PC 39:6	4
+PC 40:5	4
+PC 40:6	4
+PC 40:7	4
+PC(O-30:0)	4
+PC(O-32:0)	4
+PC(O-32:1)	4
+PC(O-32:2)	4
+PC(O-34:0)	4
+PC(O-34:1)	4
+PC(O-34:2)	4
+PC(O-34:3)	4
+PC(O-34:4)	4
+PC(O-35:4)	4
+PC(O-36:0)	4
+PC(O-36:1)	4
+PC(O-36:2)	4
+PC(O-36:3)	4
+PC(O-36:4)	4
+PC(O-36:5)	4
+PC(O-36:6)	4
+PC(O-38:4)	4
+PC(O-38:5)	4
+PC(O-38:6)	4
+PC(O-40:6)	4
+PC(O-40:7)	4
+PC(P-32:0)	4
+PC(P-32:1)	4
+PC(P-34:1)	4
+PC(P-34:2)	4
+PC(P-36:2)	4
+PC(P-36:3)	4
+PC(P-36:4)	4
+PC(P-36:5)	4
+PC(P-36:6)	4
+PC(P-38:4)	4
+PC(P-38:5)	4
+PC(P-40:5)	4
+PC(P-40:6)	4
+PE 32:1	4
+PE 33:1	4
+PE 33:2	4
+PE 34:1	4
+PE 34:2	4
+PE 34:3	4
+PE 35:1	4
+PE 35:2	4
+PE 35:3	4
+PE 35:4	4
+PE 36:0	4
+PE 36:1	4
+PE 36:2	4
+PE 36:3	4
+PE 36:4	4
+PE 36:5	4
+PE 37:4	4
+PE 37:5	4
+PE 38:3	4
+PE 38:4	4
+PE 38:5	4
+PE 38:6	4
+PE 39:6	4
+PE 40:5	4
+PE 40:6	4
+PE 40:7	4
+PE(O-34:1)	4
+PE(O-34:2)	4
+PE(O-34:3)	4
+PE(O-35:1)	4
+PE(O-36:1)	4
+PE(O-36:2)	4
+PE(O-36:3)	4
+PE(O-36:4)	4
+PE(O-36:5)	4
+PE(O-38:4)	4
+PE(O-38:5)	4
+PE(O-38:6)	4
+PE(O-38:7)	4
+PE(O-40:5)	4
+PE(O-40:6)	4
+PE(O-40:7)	4
+PE(P-34:1)	4
+PE(P-34:2)	4
+PE(P-36:1)	4
+PE(P-36:2)	4
+PE(P-36:4)	4
+PE(P-38:4)	4
+PE(P-38:5)	4
+PE(P-38:6)	4
+PE(P-38:7)	4
+PE(P-38:8)	4
+PE(P-40:5)	4
+PE(P-40:6)	4
+PG 34:1	4
+PG 36:1	4
+PG 36:2	4
+PI 32:0	4
+PI 32:1	4
+PI 34:0	4
+PI 34:1	4
+PI 36:0	4
+PI 36:1	4
+PI 36:2	4
+PI 36:3	4
+PI 36:4	4
+PI 38:2	4
+PI 38:3	4
+PI 38:4	4
+PI 38:5	4
+PI 38:6	4
+PI 40:4	4
+PI 40:5	4
+PI 40:6	4
+PS 36:1	4
+PS 38:4	4
+PS 40:6	4
+SM 31:1	4
+SM 32:1	4
+SM 32:2	4
+SM 33:1	4
+SM 34:1	4
+SM 34:2	4
+SM 34:3	4
+SM 35:1	4
+SM 35:2	4
+SM 36:1	4
+SM 36:2	4
+SM 36:3	4
+SM 37:2	4
+SM 38:1	4
+SM 38:2	4
+SM 39:1	4
+SM 41:1	4
+SM 41:2	4
+SM 42:1	4
+TG 14:0/16:0/18:1	4
+TG 14:0/16:0/18:2	4
+TG 14:0/16:1/18:1	4
+TG 14:0/16:1/18:2	4
+TG 14:0/17:0/18:1	4
+TG 14:0/18:0/18:1	4
+TG 14:0/18:2/18:2	4
+TG 14:1/16:0/18:1	4
+TG 14:1/16:1/18:0	4
+TG 14:1/18:0/18:2	4
+TG 14:1/18:1/18:1	4
+TG 15:0/16:0/18:1	4
+TG 15:0/18:1/18:1	4
+TG 16:0/16:0/16:0	4
+TG 16:0/16:0/18:0	4
+TG 16:0/16:0/18:1	4
+TG 16:0/16:0/18:2	4
+TG 16:0/16:1/17:0	4
+TG 16:0/16:1/18:1	4
+TG 16:0/17:0/18:0	4
+TG 16:0/17:0/18:1	4
+TG 16:0/17:0/18:2	4
+TG 16:0/18:0/18:1	4
+TG 16:0/18:1/18:1	4
+TG 16:0/18:1/18:2	4
+TG 16:0/18:2/18:2	4
+TG 16:1/16:1/16:1	4
+TG 16:1/16:1/18:0	4
+TG 16:1/16:1/18:1	4
+TG 16:1/17:0/18:1	4
+TG 16:1/18:1/18:1	4
+TG 16:1/18:1/18:2	4
+TG 17:0/17:0/17:0	4
+TG 17:0/18:1/18:1	4
+TG 18:0/18:0/18:1	4
+TG 18:0/18:1/18:1	4
+TG 18:0/18:2/18:2	4
+TG 18:1/18:1/18:1	4
+TG 18:1/18:1/18:2	4
+TG 18:1/18:1/20:4	4
+TG 18:1/18:1/22:6	4
+TG 18:1/18:2/18:2	4
+TG 18:2/18:2/18:2	4
+TG 18:2/18:2/20:4	4
+Decanoic acid (10:0)	4
+Lauric Acid (12:0)	4
+Myristic acid (14:0)	4
+Pentadecanoic acid (15:0)	4
+Palmitic acid (16:0)	4
+Palmitoleic acid (16:1n-7)	4
+Heptadecanoic acid (17:0)	4
+Stearic acid (18:0)	4
+Vaccenic acid (18:1n-7)	4
+Oleic acid (18:1n-9)	4
+Linoleic acid (18:2n-6)	4
+Alpha-linolenic acid (18:3n-3)	4
+Gamma-linolenic acid (18:3n-6)	4
+Nonadecanoic acid (19:0)	4
+Arachidic acid (20:0)	4
+Gondoic acid (20:1n-9)	4
+Eicosadienoic acid (20:2n-6)	4
+Dihomo-gamma-linolenic acid (20:3n-6)	4
+Arachidonic acid (20:4n-6)	4
+Eicosapentaenoic acid (20:5n-3)	4
+Behenic acid (22:0)	4
+Erucic acid (22:1n-9)	4
+Docosatetraenoic acid (22:4n-6)	4
+Docosapentaenoic acid (22:5n-3)	4
+Docosahexaenoic acis (22:6n-3)	4
+Lignoceric acid (24:0)	4
+Nervonic acid (24:1n-9)	4
+Trans-palmitoleic acid (Trans-16:1)	4
+ Trans-vaccenic [Trans-18:1(n-7)]	4
+Elaidic acid [Trans-18:1(n-9)]	4
+Linoleic acid [Trans-18:2n-6]	4
